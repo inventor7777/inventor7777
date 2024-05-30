@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->I'm an RC enthusiast who tinkers around with R/C cars, trucks, and planes whenever I can. I have found that EdgeTX is probably the best open source R/C transmitter firmware ever. I think I could be considered a power user of almost everything I own :)
+-->I'm an RC enthusiast who tinkers around with R/C cars, trucks, and planes whenever I can. I have found that EdgeTX is probably the best open source R/C transmitter firmware ever. 
+
+💡 Fun fact: you are probabky only reading this because it says "fun fact"
+💡 Fun fact: you probably this read wrong
+💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
