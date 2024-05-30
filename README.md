@@ -1,4 +1,4 @@
-## Hi there 👋
+## Well well well! What brings you here?! 🙋‍♂️
 
 <!--
 **inventor7777/inventor7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there;im+updating+my+profile)](https://git.io/typing-svg)
+-->I'm an RC enthusiast who tinkers around with R/C cars, trucks, and planes whenever I can. I have found that EdgeTX is probably the best open source R/C transmitter firmware ever. I think I could be considered a power user of almost everything I own :)
