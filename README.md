@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-💡 Fun fact: you are probabky only reading this because it says "fun fact"
+
+💡 Fun fact: you are probably only reading this because it says "fun fact"
 
 💡 Fun fact: you probably this read wrong
 
