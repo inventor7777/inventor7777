@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->I'm an RC enthusiast who tinkers around with R/C cars, trucks, and planes whenever I can. I've found that EdgeTX is probably the best open source R/C transmitter firmware ever. Donate to them with the link in this repo! My favorite tramsmitter is the RadioMaster MT12 MPM.
-
-
-
-
+-
 💡 Fun fact: you are probably only reading this because it says "fun fact"
 
 💡 Fun fact: you probably this read wrong
