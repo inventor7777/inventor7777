@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->I'm an RC enthusiast who tinkers around with R/C cars, trucks, and planes whenever I can. I like to take software thats already written and then modify it to my liking (When licensing allows, of course 🙃). My favorite R/C transmitter is the RadioMaster MT12 MPM, along with the TX16s Max II MPM.
 
--
+*
+
 💡 Fun fact: you are probably only reading this because it says "fun fact"
 
 💡 Fun fact: you probably this read wrong
