@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 💡 Fun fact: you probably this read wrong
 
 💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
+
+https://github-readme-stats.vercel.app/api?username=inventor7777&theme=vision-friendly-dark&show_icons=true
