@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 💡 Fun fact: you probably this read wrong
 
 💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
+
+
+<script src="https://gist.github.com/inventor7777/970795e04a4f5bc31cd468f97965e5d2.js"></script>
