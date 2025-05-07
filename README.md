@@ -23,5 +23,6 @@ Here are some ideas to get you started:
 
 💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
 
-
-![My animation](https://github.com/inventor7777/inventor7777/blob/dd0f074ea49bf7fea97dad45abd9ed3d76ceab2c/nokia.gif)
+<div align="center">
+  <img src="https://github.com/inventor7777/inventor7777/blob/dd0f074ea49bf7fea97dad45abd9ed3d76ceab2c/nokia.gif" alt="Demo" width="300">
+</div>
