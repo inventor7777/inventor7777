@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
 
 
-<script src="https://gist.github.com/inventor7777/970795e04a4f5bc31cd468f97965e5d2.js"></script>
+![My animation](https://github.com/inventor7777/inventor7777/blob/c2c9ab0b8fd27bd4fdcbc1fc5730f1866eb5221a/nokia.gif)
