@@ -1,9 +1,5 @@
 ## Well well well! What brings you here?! 🙋‍♂️
 
-<!--
-**inventor7777/inventor7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
 I'm an RC enthusiast who tinkers around with R/C cars, trucks, planes, and 3D printing whenever I can. [Visit Printables](https://printables.com). I like to take software and 3D models that are already written/created and then modify them to my liking (When licensing allows, of course 🙃). My favorite R/C transmitter is the RadioMaster MT12 MPM, along with the TX16s Max II MPM. 
 
 *
