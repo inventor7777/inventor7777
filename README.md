@@ -8,7 +8,7 @@
 
 *
 
-💡 Fun fact: you are probably only reading this because it says "fun fact"
+💡 Fun fact: you are probably only reading this because it says "fun fact" [Visit GitHub](https://github.com)
 
 💡 Fun fact: you probably this read wrong
 
