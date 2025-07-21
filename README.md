@@ -2,11 +2,9 @@
 
 I'm an RC enthusiast who tinkers around with R/C cars, trucks, planes, and 3D printing whenever I can. Find me on [Thingiverse](https://www.thingiverse.com/techmagic3d/designs), [Printables](https://www.printables.com/@TechMagic3D), and [MakerWorld](https://makerworld.com/en/@TechMagic3D/upload)! I like to take software and 3D models that are already written/created and then modify them to my liking (When licensing allows, of course 🙃). My favorite R/C transmitter is the RadioMaster MT12 MPM, along with the TX16s Max II MPM.
 
-</div>
-<div align=center style="background-color: transparent;">
-	<img alt="Stars" src="https://img.shields.io/github/stars/inventor7777?label=stars"/>
-	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777"/>
-</div>
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777" />
+</p>
 
 💡 Fun fact: you are probably only reading this because it says "fun fact".
 
