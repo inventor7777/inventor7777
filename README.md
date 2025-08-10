@@ -20,7 +20,7 @@ I'm a young RC enthusiast who tinkers around with R/C cars, trucks, planes, and 
 
   <a href="https://github.com/inventor7777">
     <img src="https://github-readme-stats.vercel.app/api?username=inventor7777&count_private=true&show_icons=true&include_all_commits=true" 
-         width="400" 
+         width="425" 
          style="vertical-align:middle;">
   </a>
 </p>
