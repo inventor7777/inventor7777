@@ -15,12 +15,12 @@ I'm a young RC enthusiast who tinkers around with R/C cars, trucks, planes, and 
 <p align="center">
   <img src="https://github.com/inventor7777/inventor7777/blob/dd0f074ea49bf7fea97dad45abd9ed3d76ceab2c/nokia.gif" 
        alt="Demo" 
-       width="300" 
+       width="260" 
        style="vertical-align:middle;">
 
   <a href="https://github.com/inventor7777">
     <img src="https://github-readme-stats.vercel.app/api?username=inventor7777&count_private=true&show_icons=true&include_all_commits=true" 
-         width="475" 
+         width="400" 
          style="vertical-align:middle;">
   </a>
 </p>
