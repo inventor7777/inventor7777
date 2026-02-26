@@ -15,7 +15,7 @@ Also, I recently started "vibe-coding" some random HTML projects, check it out o
 💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
 
 <p align="center">
-  <img src="https://github.com/inventor7777/inventor7777/blob/dd0f074ea49bf7fea97dad45abd9ed3d76ceab2c/nokia.gif" 
+  <img src="https://github.com/inventor7777/inventor7777/blob/de6f8c43d286df6258dde6ec5e9d433ce74627f3/nokia.gif" 
        alt="Demo" 
        width="260" 
        style="vertical-align:middle;">
