@@ -14,6 +14,8 @@ Also, I recently started "vibe-coding" some random HTML projects, check it out o
 
 💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
 
+💡 Another fun fact: I have an old HGST drive with 2,712,593 load cycles, from an old business M72e.
+
 <p align="center">
   <img src="https://github.com/inventor7777/inventor7777/blob/de6f8c43d286df6258dde6ec5e9d433ce74627f3/nokia.gif" 
        alt="Demo" 
