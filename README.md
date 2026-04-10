@@ -1,8 +1,8 @@
 ## Well well well! What brings you here?! 🙋‍♂️
 
-I'm a young RC and home automation enthusiast who tinkers around with R/C cars, trucks, planes, Home Assistant, and 3D printing whenever I can. Find me on [Thingiverse](https://www.thingiverse.com/techmagic3d/designs), [Printables](https://www.printables.com/@TechMagic3D), and [MakerWorld](https://makerworld.com/en/@TechMagic3D/upload)! I like to take software and 3D models that are already written/created and then modify them to my liking, then post them online for others to use (When licensing allows, of course 🙃). 
+I'm a young RC and home automation enthusiast who tinkers around with AI, R/C vehicles of all types, and 3D printing whenever I can. Find me on [Thingiverse](https://www.thingiverse.com/techmagic3d/designs), [Printables](https://www.printables.com/@TechMagic3D), and [MakerWorld](https://makerworld.com/en/@TechMagic3D/upload)! 
 
-Also, I recently started "vibe-coding" some random HTML projects, check it out on my [GitHub Pages site](https://inventor7777.github.io), and also a [locally hosted site here](http://174.75.97.159:1200).
+I like to take software and 3D models that are already written/created and then modify them to my liking, then post them online for others to use (When licensing allows, of course 🙃). 
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777" />
@@ -15,6 +15,8 @@ Also, I recently started "vibe-coding" some random HTML projects, check it out o
 💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
 
 💡 Another fun fact: I have an old HGST drive with 2,712,593 load cycles, from an old business M72e.
+
+💡 [do not click](http://174.75.97.159:1200)
 
 <p align="center">
   <img src="https://github.com/inventor7777/inventor7777/blob/de6f8c43d286df6258dde6ec5e9d433ce74627f3/nokia.gif" 
