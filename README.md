@@ -6,6 +6,8 @@ I like to take software and 3D models that are already written/created and then 
 
 I do not have very much knowledge about coding *(syntax just goes over my head...)*, but I have been using AI with good results. I hold the AI to a high standard and I add and test new features slowly and carefully. If I post it here on GitHub, it means that I think it has enough features and perfect stability *(within reason...)*. While you are here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [cards](https://github.com/inventor7777/ha-status-grid-card) or [integrations](https://github.com/inventor7777/improved-beszel-ha)?
 
+If you are wondering why the donut PFP, it is because I randomly set a round PNG icon as my profile when I first created my GitHub account, and I never changed it. I think it is cool how it becomes invisible in GitHub dark mode. If you are reading this in dark mode and you are thinking, "What profile picture?!", then try and disable dark mode for a moment.
+
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777" />
 </p>
