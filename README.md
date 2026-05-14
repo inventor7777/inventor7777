@@ -1,6 +1,6 @@
 ## Well well well! What brings you here?! 🙋‍♂️
 
-I'm a young RC and home automation enthusiast who tinkers around with AI, R/C vehicles of all types, and 3D printing whenever I can. Find me on [Thingiverse](https://www.thingiverse.com/techmagic3d/designs), [Printables](https://www.printables.com/@TechMagic3D), and [MakerWorld](https://makerworld.com/en/@TechMagic3D/upload)! And of course, GitHub.
+I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, yes, I know, sorry)*, R/C vehicles of all types, and 3D printing whenever I can. Find me on [Thingiverse](https://www.thingiverse.com/techmagic3d/designs), [Printables](https://www.printables.com/@TechMagic3D), and [MakerWorld](https://makerworld.com/en/@TechMagic3D/upload)! And of course, GitHub.
 
 I like to take software and 3D models that are already written/created and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). 
 
