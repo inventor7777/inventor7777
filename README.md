@@ -23,6 +23,10 @@ If you are wondering why the donut PFP, it is because I randomly set a round PNG
 💡 [do not click](http://174.75.97.159:1200)
 
 <p align="center">
+  <img alt="Visitors" src="https://github-profile-trophy.vercel.app/?username=inventor7777&theme=light" />
+</p>
+
+<p align="center">
   <img src="https://github.com/inventor7777/inventor7777/blob/de6f8c43d286df6258dde6ec5e9d433ce74627f3/nokia.gif" 
        alt="Demo" 
        width="260" 
