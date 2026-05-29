@@ -60,4 +60,6 @@ http:
 
 - Random fact: I got rid of Pi hole in favor of OPNsense's Unbound blocklists because I am tired of maintaining yet another bit of software.
 
+- If you read the above AI section and are now wondering why my commits often sound like AI, it's because I don't feel like writing commit messages if Copilot's one is good.
+
 </details>
