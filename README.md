@@ -16,7 +16,7 @@ If you are wondering why the donut PFP, it is because I randomly set a round PNG
 
 💡 Fun fact: you probably this read wrong
 
-💡 Real fun fact: I think I could be considered a power user of almost everything I own :)
+💡 Real fun fact: I think I could be considered a power user of almost everything I own. Or, if it has a settings menu, I'll find every option. :)
 
 💡 Another fun fact: I have an old HGST drive with 2,712,593 load cycles, from an old business M72e.
 
