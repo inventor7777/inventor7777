@@ -56,4 +56,6 @@ http:
 
 - If you like to vibecode a lot, at least have another session to simply have the AI review the generated code.
 
+- Random fact: I got rid of Pi hole in favor of OPNsense's Unbound blocklists because I am tired of maintaining yet another bit of software.
+
 </details>
