@@ -38,3 +38,22 @@ If you are wondering why the donut PFP, it is because I randomly set a round PNG
          style="vertical-align:middle;">
   </a>
 </p>
+
+<details>
+<summary>Random ramblings</summary>
+  
+- In OPNsense, do **not** try to redirect NTP to `::1` because ntpd for some reason hates it. Use a ULA instead.
+
+- Don't be scared to set Home Assistant to port 80:
+
+```yaml
+http:
+  server_port: 80
+```
+- If someone online suggests unnecessary complexity, feel free to ignore them and do the best option for *YOU*. Just because someone wants a special VLAN for their ESPHome devices *does not* mean you need one too.
+
+- Home Assistant shines when you have **local** control. If you set up Home Assistant and keep buying Tuya plugs, what are you doing.
+
+- If you like to vibecode a lot, at least have another session to simply have the AI review the generated code.
+
+</details>
