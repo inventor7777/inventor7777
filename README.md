@@ -37,7 +37,7 @@ If you are wondering why the donut PFP, it is because I randomly set a round PNG
        style="vertical-align:middle;">
 
   <a href="https://github.com/inventor7777">
-    <img src="https://github-readme-stats.vercel.app/api?username=inventor7777&count_private=true&show_icons=true&include_all_commits=true" 
+    <img src="https://github-readme-stats-extended.vercel.app/api?username=inventor7777&count_private=true&show_icons=true&include_all_commits=true" 
          width="425" 
          style="vertical-align:middle;">
   </a>
