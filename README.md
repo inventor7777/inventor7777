@@ -4,6 +4,8 @@ I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, 
 
 I like to take software and 3D models that are already written/created and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). 
 
+----
+
 I do not have very much knowledge about coding *(syntax just goes over my head...)*, but I have been using AI with good results. I hold the AI to a high standard and add and test new features slowly and carefully. With that said, I find YAML pretty simple and so I usually write my own ESPHome configs. While I use AI for coding, I cannot stand AI generated summaries, so I write all of my READMEs *(including this one!)* manually, or with very minimal AI cleanups. No 🚀 please.
 
 If I post it here on GitHub, it means that I think it has enough features and perfect stability *(within reason...)*. While you are here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [cards](https://github.com/inventor7777/ha-status-grid-card) or [forked](https://github.com/inventor7777/ultraloq-ble-ha) [integrations](https://github.com/inventor7777/improved-beszel-ha)?
