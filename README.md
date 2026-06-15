@@ -64,4 +64,6 @@ http:
 
 - If you read the above AI section and are now wondering why my commits often sound like AI, it's because I don't feel like writing commit messages if Copilot's one is good.
 
+- Why do people fork repositiories but then leave them unupdated for 8 years?
+
 </details>
