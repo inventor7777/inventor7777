@@ -1,6 +1,6 @@
 ## Well well well! What brings you here?! 🙋‍♂️
 
-I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, yes, I know, sorry)*, R/C vehicles of all types, homelabbing, and 3D printing whenever I can. Find me on the main 3D printing websites as `@TechMagic3D`.
+I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, yes, I know, sorry)*, R/C vehicles of all types, homelabbing, and 3D printing whenever I can. You can find me on the main 3D printing websites as `TechMagic3D`, and on some forums as `inventor7777`.
 
 I like to take software and 3D models that are already written/created and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). 
 
