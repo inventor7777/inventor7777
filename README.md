@@ -6,15 +6,13 @@ I like to take software and 3D models that are already written/created and then 
 
 ----
 
-I do not have very much knowledge about coding *(syntax just goes over my head...)*, but I have been using AI with good results. I hold the AI to a high standard and add and test new features slowly and carefully. With that said, I find YAML pretty simple and so I usually write my own ESPHome configs. While I use AI for coding, I cannot stand AI generated summaries, so I write all of my READMEs *(including this one!)* manually, or with very minimal AI cleanups. No 🚀 please.
+I don't do very much manual coding *(syntax just goes over my head...)*, but I have been using AI for some of my projects with good results. I hold the AI to a high standard and add and test new features slowly and carefully. With that said, I find YAML pretty simple and so I usually write my own ESPHome configs. While I use AI for the actual coding, I cannot stand AI generated summaries, so I write all of my READMEs *(including this one!)* manually, or with very minimal AI cleanups. No 🚀 please.
 
 If I post it here on GitHub, it means that I think it has enough features and perfect stability *(within reason...)*. While you are here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [apps](https://github.com/inventor7777/vnstat-ha), [cards](https://github.com/inventor7777/ha-status-grid-card) or [forked](https://github.com/inventor7777/ultraloq-ble-ha) [integrations](https://github.com/inventor7777/improved-beszel-ha)?
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777" />
 </p>
-
-💡 Fun fact: you are probably only reading this because it says "fun fact".
 
 💡 Fun fact: you probably this read wrong
 
@@ -67,5 +65,28 @@ http:
 - Why do people fork repositiories but then leave them unupdated for 8 years?
 
 - If you are wondering why the donut PFP, it is because I randomly set a round PNG icon as my profile when I first created my GitHub account, and I never changed it. I think it is cool how it becomes invisible in GitHub dark mode. If you are reading this in dark mode and you are thinking, "What profile picture?!", then try and disable dark mode for a moment.
+
+</details>
+
+<details>
+<summary>My Homelab specs (WIP)</summary>
+
+Basically, my home network ***is*** my homelab. I've seen some insanely complex swtups online, and some extremely simple ones. I try to take the middle ground, where I end up with a super fancy upgraded network without accidentally larping as a Cloud-Native datacenter™️
+
+The structure itself is relatively simple. At the heart is my main 9U full size network rack.
+## Contents of Main 9U
+
+- Cox cable 1GIG plan - *Arris SB8200*
+- OPNsense - *ThinkCentre M73 i5-4570T 250GB/8GB*
+
+- TRENDnet 2.5GbE managed switch
+- TP-Link 16 port unmanaged PoE switch
+- CyberPower EC850LCD UPS
+  
+- Docker + Services server - *ThinkCentre M73 i5-4570T 512GB/8GB*
+- TrueNAS - *ThinkCentre M710q i7-7700T 250GB/32GB in custom 3D printed 6 bay NAS enclosure using ASM1166*
+- Home Assistant - *ThinkCentre M710q i7-7700T 256GB/16GB*
+
+- WIP. this section will update over time
 
 </details>
