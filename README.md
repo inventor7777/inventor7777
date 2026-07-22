@@ -39,7 +39,7 @@ If I post it here on GitHub, it means that I think it has enough features and pe
   </a>
 </p>
 
-If you think this README is just...too ***human-generated***, check out [the LinkedIn AI slop version.](LinkedInMe.md)
+If you think this README is just...too ***human-generated***, check out [the LinkedIn AI slop version.](LinkedInMe.md) It contains enough synergy to power a medium-sized consulting firm.
 
 <details>
 <summary>Random ramblings</summary>
