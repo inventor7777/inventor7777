@@ -41,6 +41,8 @@ If I post it here on GitHub, it means that I think it has enough features and pe
   </a>
 </p>
 
+If you think this README is just...too ***human-generated***, check out [the LinkedIn AI slop version.](LinkedInMe.md)
+
 <details>
 <summary>Random ramblings</summary>
   
