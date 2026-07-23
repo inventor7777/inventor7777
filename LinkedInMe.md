@@ -1,4 +1,4 @@
-# My README...but rewritten fully by AI, just for pain and suffering. Mo, it doesn't sound like the original, which makes this funnier.
+# My README...but rewritten fully by AI, just for pain and suffering. No, it doesn't sound like the original, which makes this funnier.
 
 ## 🚀 Empowering Innovation Through Technology, Automation, and AI
 
