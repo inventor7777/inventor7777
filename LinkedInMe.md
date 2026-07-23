@@ -77,6 +77,8 @@ Core Values
 * Building resilient and future-ready systems
 * Leveraging automation to maximize productivity
 
+Drive innovation. Unlock value. Transform the future. Shape true impact. Redefine excellence. That's my mindset.
+
 ### Let’s Connect!
 
 I am always excited to connect with fellow innovators, technologists, thought leaders, and forward-thinking professionals who are passionate about shaping the future through technology. 
