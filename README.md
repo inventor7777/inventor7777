@@ -46,7 +46,7 @@ If you think this README is just...too ***human-generated***, check out [the Lin
   
 - In OPNsense, do **not** try to redirect NTP to `::1` because ntpd for some reason hates it. Use a ULA instead.
 
-- Don't be scared to set Home Assistant to port 80:
+- Don't be scared to set Home Assistant OS to port 80:
 
 ```yaml
 http:
@@ -60,7 +60,7 @@ http:
 
 - Random fact: I got rid of Pi hole in favor of OPNsense's Unbound blocklists because I am tired of maintaining yet another bit of software.
 
-- If you read the above AI section and are now wondering why my commits often sound like AI, it's because I don't feel like writing commit messages if Copilot's one is good.
+- If you read the above AI section and are now wondering why my commit messages often sound like AI, it's because I don't feel like writing the commit messages if Copilot's one is good enough.
 
 - Why do people fork repositiories but then leave them unupdated for 8 years?
 
@@ -69,24 +69,48 @@ http:
 </details>
 
 <details>
-<summary>My Homelab specs (WIP)</summary>
+<summary>My Homelab Overview (WIP)</summary>
 
 Basically, my home network ***is*** my homelab. I've seen some insanely complex swtups online, and some extremely simple ones. I try to take the middle ground, where I end up with a super fancy upgraded network without accidentally larping as a Cloud-Native datacenter™️
 
 The structure itself is relatively simple. At the heart is my main 9U full size network rack.
 ## Contents of Main 9U
 
+- CyberPower EC850LCD UPS
 - Cox cable 1GIG plan - *Arris SB8200*
 - OPNsense - *ThinkCentre M73 i5-4570T 250GB/8GB*
-
+-
 - TRENDnet 2.5GbE managed switch
 - TP-Link 16 port unmanaged PoE switch
-- CyberPower EC850LCD UPS
-  
+-  
 - Docker + Services server - *ThinkCentre M73 i5-4570T 512GB/8GB*
-- TrueNAS - *ThinkCentre M710q i7-7700T 250GB/32GB in custom 3D printed 6 bay NAS enclosure using ASM1166*
 - Home Assistant - *ThinkCentre M710q i7-7700T 256GB/16GB*
+- GUI Stuff - *MacBook Air M1 16/1TB with broken screen*
+- TrueNAS - *ThinkCentre M710q i7-7700T 250GB/32GB in custom 3D printed 6 bay NAS enclosure using ASM1166*
+- Apple Backups - *Synology DS220j 512MB/3TB*
+- Other Backups - *Ugreen DXP4800 8GB/4TB*
 
-- WIP. this section will update over time
+## Splits to unmanaged edge switches
+
+### 8x2.5GbE PoE Switch #1
+- Cameras
+- Desktops
+- Wall HA Kiosk #1
+
+### 8x2.5GbE PoE Switch #2
+- Cameras
+- WiFi AP
+- Desktop
+- Wall HA Kiosk #2
+
+### Workshop Asus AP 2.5GbE in, 1GbE out
+- 8x1GbE PoE Switch
+- Cameras
+- Wall HA Kiosk #3
+
+### 5x2.5GbE non-PoE Switch
+- Zigbee coordinator
+- TV, Roku, DVD player
+- WiFi AP
 
 </details>
