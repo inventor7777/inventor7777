@@ -62,7 +62,7 @@ http:
 
 - If you read the above AI section and are now wondering why my commit messages often sound like AI, it's because I don't feel like writing the commit messages if Copilot's one is good enough.
 
-- Why do people fork repositiories but then leave them unupdated for 8 years?
+- Why do people fork repositories but then leave them unupdated for 8 years?
 
 - If you are wondering why the donut PFP, it is because I randomly set a round PNG icon as my profile when I first created my GitHub account, and I never changed it. I think it is cool how it becomes invisible in GitHub dark mode. If you are reading this in dark mode and you are thinking, "What profile picture?!", then try and disable dark mode for a moment.
 
@@ -71,7 +71,7 @@ http:
 <details>
 <summary>My Homelab Overview (WIP)</summary>
 
-Basically, my home network ***is*** my homelab. I've seen some insanely complex swtups online, and some extremely simple ones. I try to take the middle ground, where I end up with a super fancy upgraded network without accidentally larping as a Cloud-Native datacenter™️
+Basically, my home network ***is*** my homelab. I've seen some insanely complex setups online, and some extremely simple ones. I try to take the middle ground, where I end up with a super fancy upgraded network without accidentally larping as a Cloud-Native datacenter™️
 
 The structure itself is relatively simple. At the heart is my main 9U full size network rack.
 ## Contents of Main 9U
