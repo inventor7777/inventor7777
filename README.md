@@ -2,13 +2,13 @@
 
 Hey there! I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, yes, I know, sorry)*, R/C vehicles of all types, homelabbing, and 3D printing whenever I can. You can find me on the main 3D printing websites as `TechMagic3D`, and on some forums as `inventor7777`.
 
-I like to take software and 3D models that are already written/created and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). 
+I like to take software and 3D models that are already written/created and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). I prefer software that does one thing well, vs a lot of things poorly. 
 
 ----
 
-I don't do very much manual coding *(syntax just goes over my head...)*, but I have been using AI for some of my projects with good results. I hold the AI to a high standard and add and test new features slowly and carefully. With that said, I find YAML pretty simple and so I usually write my own ESPHome configs. While I use AI for the actual coding, I cannot stand AI generated summaries, so I write all of my READMEs *(including this one!)* manually, or with very minimal AI cleanups. No 🚀 please.
+I don't do very much manual coding *(syntax just goes over my head...)*, but I have been using AI for some of my projects with good results. With that said, I find YAML pretty simple and so I usually write my own config files for ESPHome and GitHub Actions and others. Now, even though I might use AI for the actual coding, I cannot stand AI generated summaries, so I write all of my READMEs *(including this one!)* manually, or with very minimal AI cleanups. No 🚀 please.
 
-If I post it here on GitHub, it means that I think it has enough features and perfect stability *(within reason...)*. While you are here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [apps](https://github.com/inventor7777/vnstat-ha), [cards](https://github.com/inventor7777/ha-status-grid-card) or [forked](https://github.com/inventor7777/ultraloq-ble-ha) [integrations](https://github.com/inventor7777/improved-beszel-ha)?
+If I post software here on GitHub, it means that I think it has enough features and excellent stability - while you are here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [apps](https://github.com/inventor7777/vnstat-ha), [cards](https://github.com/inventor7777/ha-status-grid-card) or [forked](https://github.com/inventor7777/ultraloq-ble-ha) [integrations](https://github.com/inventor7777/improved-beszel-ha)?
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777" />
