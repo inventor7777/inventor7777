@@ -40,6 +40,7 @@ If I post software here on GitHub, it means that I think it has enough features 
 </p>
 
 If you think this README is just...too ***human-generated***, check out [the LinkedIn AI slop version.](LinkedInMe.md) It contains enough synergy to power a medium-sized consulting firm.
+
 Speaking of AI, I decided to write a little doc clarifying my usage and stance on AI which you can [read here.](AI-Notes.md)
 
 <details>
