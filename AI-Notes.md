@@ -22,6 +22,10 @@ That is why my Go projects are AI, while my ESPHome YAML configs are mainly writ
 
 Basically, I use AI because it expands what I can create; but I take responsibility for testing and maintaining what I do end up publishing. 
 
+## My commit messages
+
+Sometimes AI, sometimes not. On simple README edits like the commit that added this line I use the Copilot summaries because they are usually okay, but on respectable changes to a codebase I'll usually write them myself.
+
 ## My subjective opinion on AI  
 
 AI is extremely useful. It can save a ton of time and effort on repetitive tasks, it can help you do things that would have taken an insane amount of time before, it can give very helpful troubleshooting advice. In fact - I probably would not have been able to start my homelab without the help of AI. I use AI daily for random things like troubleshooting, researching, and learning.
