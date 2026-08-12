@@ -2,13 +2,13 @@
 
 Hey there! I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, yes, I know, sorry)*, R/C vehicles of all types, homelabbing, and 3D printing whenever I can. You can find me on the main 3D printing websites as `TechMagic3D`, and on some forums + Discord as `inventor7777`.
 
-I like to take software and 3D models that are already written/created and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). I prefer software that does one thing well, vs a lot of things poorly. When I'm not improving existing software, I am creating or improving some of my own personal projects such as [syslog-flow](https://github.com/inventor7777/syslog-flow).
+I like to take software and 3D models that are already written and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). I prefer software that does one thing well, vs a lot of things poorly. When I'm not working on existing software, I am creating or improving some of my own personal projects such as [syslog-flow](https://github.com/inventor7777/syslog-flow).
 
 ----
 
 I don't do very much manual coding *(I simply cannot master syntax...)*, but [I have been using AI for some of my projects with good results.](AI-Notes.md) With that said, I find YAML pretty simple and so I usually write my own config files for ESPHome + GitHub Actions and others. Now, though I might use AI for the actual coding, I cannot stand AI generated summaries, so I write all of my READMEs *(including this one!)* manually, or with very minimal AI cleanups. No 🚀 please.
 
-If I post software here on GitHub, it means that I think it has enough features and excellent stability - while you are here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [apps](https://github.com/inventor7777/vnstat-ha), [cards](https://github.com/inventor7777/ha-status-grid-card) or [forked](https://github.com/inventor7777/ultraloq-ble-ha) [integrations](https://github.com/inventor7777/improved-beszel-ha)?
+If I post software here on GitHub, it means that I consider it stable and reliable - while you are here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [apps](https://github.com/inventor7777/vnstat-ha), [cards](https://github.com/inventor7777/ha-status-grid-card) or [forked](https://github.com/inventor7777/ultraloq-ble-ha) [integrations](https://github.com/inventor7777/improved-beszel-ha)?
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777" />
@@ -58,9 +58,9 @@ http:
 
 - Home Assistant shines when you have **local** control. If you set up Home Assistant and keep buying Tuya plugs, what are you doing.
 
-- If you like to vibecode a lot, at least have another session to simply have the AI review the generated code.
+- When vibecoding, the quality is improved massively when you start a fresh session and simply have the AI review and clean up the generated code.
 
-- Random fact: I got rid of Pi hole in favor of OPNsense's Unbound blocklists because I am tired of maintaining yet another bit of software.
+- Random fact: I got rid of Pi-hole in favor of OPNsense's Unbound blocklists because I am tired of maintaining yet another bit of software on a separate computer.
 
 - If you read the above AI section and are now wondering why my commit messages often sound like AI, it's because I don't feel like writing the commit messages if Copilot's one is good enough.
 
@@ -81,18 +81,23 @@ The structure itself is relatively simple. At the heart is my main 9U full size 
 - CyberPower EC850LCD UPS
 - Cox cable 1GIG plan - *Arris SB8200*
 - OPNsense - *ThinkCentre M73 i5-4570T 250GB/8GB*
--
+
+  ⬇️
+
 - TRENDnet 2.5GbE managed switch
 - TP-Link 16 port unmanaged PoE switch
--  
+
+  ⬇️  
+
 - Docker + Services server - *ThinkCentre M73 i5-4570T 512GB/8GB*
 - Home Assistant - *ThinkCentre M710q i7-7700T 256GB/16GB*
-- GUI Stuff - *MacBook Air M1 16/1TB with broken screen*
+- GUI Server Stuff - *MacBook Air M1 16/1TB with broken screen*
 - TrueNAS - *ThinkCentre M710q i7-7700T 250GB/32GB in custom 3D printed 6 bay NAS enclosure using ASM1166*
 - Apple Backups - *Synology DS220j 512MB/3TB*
 - Other Backups - *Ugreen DXP4800 8GB/4TB*
+- XT8 WiFi AP
 
-## Splits to unmanaged edge switches
+## Splits to unmanaged edge switches 🪾
 
 ### 8x2.5GbE PoE Switch #1
 - Cameras
@@ -101,11 +106,11 @@ The structure itself is relatively simple. At the heart is my main 9U full size 
 
 ### 8x2.5GbE PoE Switch #2
 - Cameras
-- WiFi AP
+- XT8 WiFi AP
 - Desktop
 - Wall HA Kiosk #2
 
-### Workshop Asus AP 2.5GbE in, 1GbE out
+### Workshop Asus XT8 AP 2.5GbE in, 1GbE out
 - 8x1GbE PoE Switch
 - Cameras
 - Wall HA Kiosk #3
@@ -113,6 +118,6 @@ The structure itself is relatively simple. At the heart is my main 9U full size 
 ### 5x2.5GbE non-PoE Switch
 - Zigbee coordinator
 - TV, Roku, DVD player
-- WiFi AP
+- XT8 WiFi AP
 
 </details>
