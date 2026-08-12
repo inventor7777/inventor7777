@@ -68,6 +68,8 @@ http:
 
 - If you are wondering why the donut PFP, it is because I randomly set a round PNG icon as my profile when I first created my GitHub account, and I never changed it. I think it is cool how it becomes invisible in GitHub dark mode. If you are reading this in dark mode and you are thinking, "What profile picture?!", then try and disable dark mode for a moment.
 
+- One of my favorite UI enhancements is enabling high contrast mode in macOS Sequoia and on GitHub. I really like how well defined everything looks.
+
 </details>
 
 <details>
