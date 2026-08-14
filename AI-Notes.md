@@ -2,11 +2,11 @@
 
 So, if it's past 13:00/1:00 your time, you have likely read the acronym “**AI**” approximately *3847384649* times already…
 
-Now that AI usage is *so* common and the use cases are growing every week, I decided to write a quick document explaining how, when, and why I use AI in my own public projects.
+Now that AI usage is *so* common and the use cases for artificial intelligence are growing every week, I decided to write a quick document explaining how, when, and why I use AI in my own public projects.
 
 ## Personal communication
 
-First, I want to start out by saying that all comments, messages, and issues/discussions from me are pretty much fully written by me. Sometimes I take basic wording/structure ideas from AI tools, but I simply refuse to copy and paste blatant AI material as if it was me. Sometimes I’ll add an AI written report under a dropdown or a new section, but I’ll always indicate that.
+First, I want to start out by saying that all comments, messages, and issues/discussions from me are pretty much fully written by me. Sometimes on really long and detailed messages I'll take basic wording/structure ideas from AI tools, but I simply refuse to copy and paste blatant AI material as if it was me. Sometimes I’ll add an AI written report under a dropdown or a new section, but I’ll always indicate that. 
 
 ## My READMEs
 
@@ -16,7 +16,7 @@ My personal README, which likely brought you to this document, is fully written 
 
 Most of my projects have code which is mainly AI-generated. However, I personally use all of the projects I have posted, and every time I have the AI add a new feature, I test it fully. For example, syslog-flow is AI-generated, but I built it step by step based on the ethos I had in mind. Personally, I think it turned out great. If you do end up having any issues with any of my projects, there’s always an issue tracker enabled and I will do my best to resolve bugs or AI concerns relating to the project.
 
-The root cause is because I simply cannot master syntax. For those of you who do code, this likely sounds ridiculous - but I can barely write JSON and Python, much less Go and others. 
+The root cause of my heavy AI use is that I simply cannot master syntax. For those of you who do code, this likely sounds ridiculous - but I can barely write JSON and Python, much less Go and others. 
 
 That is why my Go projects are AI, while my ESPHome YAML configs are mainly written by me. Because personally, I think YAML (and Markdown) is very straightforward + easy to read and write.
 
