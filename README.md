@@ -2,7 +2,7 @@
 
 Hey there! I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, yes, I know, sorry)*, R/C vehicles of all types, homelabbing, and 3D printing whenever I can. You can find me on the main 3D printing websites as `TechMagic3D`, and on some forums + Discord as `inventor7777`.
 
-Even though I use my fair share of AI, I am an actual thinking human, and any communication you see from me (unless specified otherwise) is written fully by me. I will not submit blatant AI content as if it were me. I decided to put this little statement pretty early on in the README just to make it clear immediately. For a more detailed explanation, check out [the short document I wrote about it.](AI-Notes.md)
+Although I use my fair share of AI, I am an actual thinking human, and any communication you see from me (unless specified otherwise) is written fully by me. I will not submit blatant AI content as if it were me. I decided to put this little statement pretty early on in the README just to make it clear immediately. For a more detailed explanation, check out [the short document I wrote about it.](AI-Notes.md)
 
 I like to take software and 3D models that are already written and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). I prefer software that does one thing well, vs a lot of things poorly. When I'm not working on existing software, I am creating or improving some of my own personal projects such as [syslog-flow](https://github.com/inventor7777/syslog-flow).
 
