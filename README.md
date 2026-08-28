@@ -2,15 +2,15 @@
 
 Hey there! I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, yes, I know, sorry)*, R/C vehicles of all types, homelabbing, and 3D printing whenever I can. You can find me on the main 3D printing websites as `TechMagic3D`, and on some forums + Discord as `inventor7777`.
 
-Although I use my fair share of AI, I am an actual thinking human, and any communication you see from me (unless specified otherwise) is written fully by me. I will not submit blatant AI content as if it were me. I decided to put this little statement pretty early on in the README just to make it clear immediately. For a more detailed explanation, check out [the short document I wrote about it.](AI-Notes.md)
+Although I use my fair share of AI, I am an actual thinking human, and any communication you see from me (unless specified otherwise) is written fully by me. I will not submit blatant AI content as if it were me. I decided to put this little statement pretty early on in the README just to make it clear immediately. For a more detailed explanation on my use and opinion on AI, check out [the short document I wrote about it.](AI-Notes.md)
 
-I like to take software and 3D models that are already written and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). I prefer software that does one thing well, vs a lot of things poorly. When I'm not working on existing software, I am creating or improving some of my own personal projects such as [syslog-flow](https://github.com/inventor7777/syslog-flow).
+I like to take software and 3D models that already exist and then modify them to my liking, then post them online or make a PR for others to use (When licensing allows, of course 🙃). I prefer software that does one thing well, vs a lot of things poorly. When I'm not working on existing software, I am creating or improving some of my own personal projects such as [syslog-flow](https://github.com/inventor7777/syslog-flow).
 
 ----
 
-I don't do very much manual coding *(I simply cannot master syntax...)*, but I have been using AI for some of my projects with good results. With that said, I find YAML pretty simple and so I usually write my own config files for ESPHome + GitHub Actions and others. Now, though I might use AI for the actual coding, I cannot stand AI generated summaries, so I write all of my READMEs *(including this one!)* manually, or with very minimal AI cleanups. No 🚀 please.
+I don't do very much manual coding *(I simply cannot master syntax...)*, but I have been using AI for some of my projects with excellent results. With that said, I find YAML pretty simple and so I usually write my own config files for ESPHome + GitHub Actions and others. Now, though I might use AI for the actual coding, I cannot stand AI generated summaries, so I write all of my READMEs *(including this one!)* manually, or with very minimal AI cleanups. No 🚀 please.
 
-If I post software here on GitHub, it means that I consider it stable and reliable - while you are here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [apps](https://github.com/inventor7777/vnstat-ha), [cards](https://github.com/inventor7777/ha-status-grid-card) or [forked](https://github.com/inventor7777/ultraloq-ble-ha) [integrations](https://github.com/inventor7777/improved-beszel-ha)?
+If I post software here on GitHub, it means that I consider it stable, reliable, and useful. While you're here, why not check out my [syslog server](https://github.com/inventor7777/syslog-flow), my [ESPHome configs](https://github.com/inventor7777/ESPHome-Configs), or [one](https://github.com/inventor7777/ha-simple-button-card) of [my](https://github.com/inventor7777/ha-pi-hole-slim-card) Home Assistant [apps](https://github.com/inventor7777/vnstat-ha), [cards](https://github.com/inventor7777/ha-status-grid-card) or [forked](https://github.com/inventor7777/ultraloq-ble-ha) [integrations](https://github.com/inventor7777/improved-beszel-ha)?
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777" />
@@ -43,8 +43,6 @@ If I post software here on GitHub, it means that I consider it stable and reliab
 
 If you think this README is just...too ***human-generated***, check out [the LinkedIn AI slop version.](LinkedInMe.md) It contains enough synergy to power a medium-sized consulting firm.
 
-Speaking of AI, I decided to write a little doc clarifying my usage and stance on AI which you can [read here.](AI-Notes.md)
-
 <details>
 <summary>Random ramblings</summary>
   
@@ -62,17 +60,21 @@ http:
 
 - When vibecoding, the quality is improved massively when you start a fresh session and simply have the AI review and clean up the generated code.
 
-- Random fact: I got rid of Pi-hole in favor of OPNsense's Unbound blocklists because I am tired of maintaining yet another bit of software on a separate computer.
+- Random fact: I got rid of Pi-hole in favor of OPNsense's Unbound blocklists because I am tired of maintaining yet another bit of software on a separate computer. I gave up some pretty UI features in favor of a simpler system, which is fine with me.
 
 - If you read the above AI section and are now wondering why my commit messages often sound like AI, it's because I don't feel like writing the commit messages if Copilot's one is good enough.
 
 - Why do people fork repositories but then leave them unupdated for 8 years?
 
-- If you are wondering why the donut PFP, it is because I randomly set a round PNG icon as my profile when I first created my GitHub account, and I never changed it. I think it is cool how it becomes invisible in GitHub dark mode. If you are reading this in dark mode and you are thinking, "What profile picture?!", then try and disable dark mode for a moment.
+- If you are wondering why the donut PFP, it is because I randomly set a round PNG icon as my profile when I first created my GitHub account, and I never changed it. I think it is cool how it becomes invisible in GitHub dark mode. If you are reading this in dark mode and you are thinking, "What profile picture?!", then try and disable dark mode for a moment. Your eyes will probably make it.
 
 - One of my favorite UI enhancements is enabling high contrast mode in macOS Sequoia and on GitHub. I really like how well defined everything looks.
 
 - Hosting your own Git seems unnecessary at first, and then you start looking around for code/config files and then you realize that you actually do, in fact, want a Forgejo instance.
+
+- Every time I update my Ubuntu 26.10, nginx does not start automatically. It makes me mad, and I keep forgetting to try and find the root cause...
+
+- You don't realize how little you own until you start self hosting. However, once you do start hosting you might start feeling smug about the things you host. 
 
 </details>
 
