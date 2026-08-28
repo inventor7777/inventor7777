@@ -1,12 +1,12 @@
 # Notes about AI
 
-So, if it's past 13:00/1:00 your time, you have likely read the acronym “**AI**” approximately *3847384649* times already…
+So, if it's past 13:00/1:00 your time, you have likely read the acronym “**AI**” approximately *3,847,384* times already…
 
 Now that AI usage is *so* common and the use cases for artificial intelligence are growing every week, I decided to write a quick document explaining how, when, and why I use AI in my own public projects.
 
 ## Personal communication
 
-First, I want to start out by saying that all comments, messages, and issues/discussions from me are pretty much fully written by me. Sometimes on really long and detailed messages I'll take basic wording/structure ideas from AI tools, but I simply refuse to copy and paste blatant AI material as if it was me. Sometimes I’ll add an AI written report under a dropdown or a new section, but I’ll always indicate that. 
+First, I want to start out by saying that all comments, messages, and issues/discussions from me are pretty much fully written by me. Sometimes, on really long and detailed messages, I'll take basic wording/structure ideas from AI tools, but I simply refuse to copy and paste blatant AI material as if it was me. Sometimes I’ll add an AI written report under a dropdown or a new section, but I’ll always indicate that. 
 
 ## My READMEs
 
