@@ -30,6 +30,9 @@ Sometimes AI, sometimes not. On simple README edits like the commit that added t
 
 AI is extremely useful. It can save a ton of time and effort on repetitive tasks, it can help you do things that would have taken an insane amount of time before, it can give very helpful troubleshooting advice. In fact - I probably would not have been able to start my homelab without the help of AI. I use AI daily for random things like troubleshooting, researching, and learning.
 
-Unfortunately, AI is shoved in many places where it is not useful, and people use it blindly in place of their own brains. If I want to talk to an AI, I can do that on my own. Please consider not using direct AI output for communications unless you genuinely need it or have reviewed the output. 
+Unfortunately, AI is shoved in many places where it is not useful, and people use it blindly in place of their own brains. If I want to talk to an AI, I can do that on my own. Please consider not using direct AI output for communications unless you genuinely need it or have reviewed the output. That ties directly into…
+
+One pet peeve I have about AI is when people write release notes specifically using Claude. In all honesty, I am sick and tired of reading about gates that bite, code that shipped, no-ops, paragraphs about things that don’t need to be explained in the release notes… 
+While this does admittedly save a lot of time, consider at least writing the introduction yourself. It makes the project feel more natural and more personal, IMO. 
 
 That’s really all I have to say about AI at this moment. As an aside: shoutout to those who honestly indicate their usage of AI in their projects and comments, and shoutout to Apple Silicon + LM Studio for making it possible to run varying private local AI models on affordable (ish) consumer hardware.
