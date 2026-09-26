@@ -79,6 +79,11 @@ Core Values
 
 Drive innovation. Unlock value. Transform the future. Shape true impact. Redefine excellence. That's my mindset.
 
+Key takeaways?
+✅ Build with purpose
+✅ Iterate relentlessly
+✅ Never stop learning
+
 ### Let’s Connect!
 
 I am always excited to connect with fellow innovators, technologists, thought leaders, and forward-thinking professionals who are passionate about shaping the future through technology. 
