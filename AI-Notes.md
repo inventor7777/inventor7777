@@ -6,7 +6,7 @@ Now that AI usage is *so* common and the use cases for artificial intelligence a
 
 ## Personal communication
 
-First, I want to start out by saying that all comments, messages, and issues/discussions from me are pretty much fully written by me. Sometimes, on really long and detailed messages, I'll take basic wording/structure ideas from AI tools, but I simply refuse to copy and paste blatant AI material as if it was me. Sometimes I’ll add an AI written report under a dropdown or a new section, but I’ll always indicate that. 
+First, I want to start out by saying that all comments, messages, and issues/discussions from me are pretty much fully written by me. Sometimes, on really long and detailed messages, I'll take basic wording/structure ideas from AI tools, but I simply refuse to copy and paste blatant AI material as if it is me. Sometimes I’ll add an AI written report under a dropdown or a new section, but I’ll always indicate that. 
 
 ## My READMEs
 
@@ -17,7 +17,6 @@ My personal README, which likely brought you to this document, is fully written 
 Most of my projects have code which is mainly AI-generated. However, I personally use all of the projects I have posted, and every time I have the AI add a new feature, I test it fully. For example, syslog-flow is AI-generated, but I built it step by step based on the ethos I had in mind. Personally, I think it turned out great. If you do end up having any issues with any of my projects, there’s always an issue tracker enabled and I will do my best to resolve bugs or AI concerns relating to the project.
 
 The root cause of my heavy AI use is that I simply cannot master syntax. For those of you who do code, this likely sounds ridiculous - but I can barely write JSON and Python, much less Go and others. 
-
 That is why my Go projects are AI, while my ESPHome YAML configs are mainly written by me. Because personally, I think YAML (and Markdown) is very straightforward + easy to read and write.
 
 Basically, I use AI because it expands what I can create; but I take responsibility for testing and maintaining what I do end up publishing. 
@@ -26,13 +25,13 @@ Basically, I use AI because it expands what I can create; but I take responsibil
 
 Sometimes AI, sometimes not. On simple README edits like the commit that added this line I use the Copilot summaries because they are usually okay, but on respectable changes to a codebase I'll usually write them myself.
 
-## My subjective opinion on AI  
+## My subjective opinion on AI 
 
 AI is extremely useful. It can save a ton of time and effort on repetitive tasks, it can help you do things that would have taken an insane amount of time before, it can give very helpful troubleshooting advice. In fact - I probably would not have been able to start my homelab without the help of AI. I use AI daily for random things like troubleshooting, researching, and learning.
 
 Unfortunately, AI is shoved in many places where it is not useful, and people use it blindly in place of their own brains. If I want to talk to an AI, I can do that on my own. Please consider not using direct AI output for communications unless you genuinely need it or have reviewed the output. That ties directly into…
 
-One pet peeve I have about AI is when people write release notes specifically using Claude. In all honesty, I am sick and tired of reading about gates that bite, code that shipped, no-ops, paragraphs about things that don’t need to be explained in the release notes… 
-While this does admittedly save a lot of writing time, consider at least writing the introduction yourself. It makes the project feel more natural and more personal, IMO. To sum it up, basically, “I don’t want to read what you didn’t write.” Again - if you have a legitimate reason to use AI, or if you use it for a technical section, no problem. 
+One pet peeve I have about AI is when people write release notes specifically using Claude. In all honesty, I am sick and tired of reading about gates that bite, code that shipped, things that ask quietly, no-ops, and the model-agnostic paragraphs about things that don’t need to be explained in the release notes and README.
+While using AI to write does admittedly save a lot of writing time, consider at least writing the introduction yourself. It makes the project feel more natural and more personal, IMO. To sum it up, basically, “I don’t want to read what you didn’t write.” Again…if you have a legitimate reason to use AI, or if you use it for a technical section, no problem. 
 
 That’s really all I have to say about AI at this moment. As an aside: shoutout to those who honestly indicate their usage of AI in their projects and comments, and shoutout to Apple Silicon + LM Studio for making it possible to run varying private local AI models on affordable (ish) consumer hardware.
