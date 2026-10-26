@@ -1,6 +1,6 @@
 ## Well well well! What brings you here?! 🙋‍♂️
 
-Hey there! I'm a young RC and home automation enthusiast who tinkers around with AI *(yes, yes, I know, sorry)*, R/C vehicles of all types, homelabbing, and 3D printing whenever I can. You can find me on the main 3D printing websites as `TechMagic3D`, and on some forums + Discord as `inventor7777`.
+Hey there! I'm a young RC and home automation enthusiast who tinkers around with R/C vehicles of all types, homelabbing, AI, and 3D printing whenever I can. You can find me on the main 3D printing websites as `TechMagic3D`, and on some forums + Discord as `inventor7777`.
 
 Although I do use my fair share of AI, I am an actual thinking human, and any communication you see from me (unless specified otherwise) is written fully by me. I will not submit blatant AI content as if it were me. I decided to put this little statement pretty early on in the README just to make it clear immediately. For a more detailed explanation on my use and opinion on AI, check out [the short document I wrote about it.](AI-Notes.md)
 
