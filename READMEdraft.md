@@ -1,0 +1,125 @@
+## Well well well! What brings you here?! 🙋‍♂️
+
+Hey there!
+
+I'm a young guy who enjoys tinkering with all things I come across.
+
+Recently, I've been 
+
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=inventor7777" />
+</p>
+
+💡 Fun fact: you probably this read wrong
+
+💡 Real fun fact: I think I could be considered a power user of almost everything I own. Or, if it has a settings menu, I'll find every option. :)
+
+💡 Another fun fact: I have an old HGST drive with 2,712,593 load cycles, from an old business M72e.
+
+💡 [do not click](http://24.254.37.141:1200)
+
+<p align="center">
+  <img alt="Visitors" src="https://trophy.benkou.dev/?username=inventor7777&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/inventor7777/inventor7777/blob/de6f8c43d286df6258dde6ec5e9d433ce74627f3/nokia.gif" 
+       alt="Demo" 
+       width="260" 
+       style="vertical-align:middle;">
+
+  <a href="https://github.com/inventor7777">
+    <img src="https://github-stats-extended.vercel.app/api?username=inventor7777&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=shadow_red" 
+         width="425" 
+         style="vertical-align:middle;">
+  </a>
+</p>
+
+If you think this README is just...too ***human-generated***, check out [the LinkedIn AI slop version.](LinkedInMe.md) It contains enough synergy to power a medium-sized consulting firm.
+
+<details>
+<summary>Random ramblings</summary>
+  
+- In OPNsense, do **not** try to redirect NTP to `::1` because ntpd for some reason hates it. Use a ULA instead.
+
+- Don't be scared to set Home Assistant OS to port 80:
+
+```yaml
+http:
+  server_port: 80
+```
+- If someone online suggests unnecessary complexity, feel free to ignore them and do the best option for *YOU*. Just because someone wants a special VLAN for their ESPHome devices *does not* mean you need one too.
+
+- Home Assistant shines when you have **local** control. If you set up Home Assistant and keep buying Tuya plugs, what are you doing.
+
+- When vibecoding, the quality is improved massively when you start a fresh session and simply have the AI review and clean up the generated code.
+
+- Random fact: I got rid of Pi-hole in favor of OPNsense's Unbound blocklists because I am tired of maintaining yet another bit of software on a separate computer. I gave up some pretty UI features in favor of a simpler system, which is fine with me.
+
+- If you read the above AI section and are now wondering why my commit messages often sound like AI, it's because I don't feel like writing the commit messages if Copilot's one is good enough.
+
+- Why do people fork repositories but then leave them unupdated for 8 years?
+
+- If you are wondering why the donut PFP, it is because I randomly set a round PNG icon as my profile when I first created my GitHub account, and I never changed it. I think it is cool how it becomes invisible in GitHub dark mode. If you are reading this in dark mode and you are thinking, "What profile picture?!", then try and disable dark mode for a moment. Your eyes will probably make it.
+
+- One of my favorite UI enhancements is enabling high contrast mode in macOS Sequoia and on GitHub. I really like how well defined everything looks.
+
+- Hosting your own Git seems unnecessary at first, and then you start looking around for code/config files and then you realize that you actually do, in fact, want a Forgejo instance.
+
+- Every time I update my Ubuntu 26.10, nginx does not start automatically. It makes me mad, and I keep forgetting to try and find the root cause...
+
+- You don't realize how little you own until you start self hosting. However, once you do start hosting you might start feeling smug about the things you host. 
+
+</details>
+
+<details>
+<summary>My Homelab Overview (WIP)</summary>
+
+Basically, my home network ***is*** my homelab. I've seen some insanely complex setups online, and some extremely simple ones. I try to take the middle ground, where I end up with a super fancy upgraded network without accidentally larping as a Cloud-Native datacenter™️
+
+The structure itself is relatively simple. At the heart is my main 9U full size network rack.
+## Contents of Main 9U
+
+- CyberPower EC850LCD UPS
+- Cox cable 1GIG plan - *Arris SB8200*
+- OPNsense - *ThinkCentre M73 i5-4570T 250GB/8GB*
+
+  ⬇️
+
+- TRENDnet 2.5GbE managed switch
+- TP-Link 16 port unmanaged PoE switch
+
+  ⬇️  
+
+- Docker + Services server - *ThinkCentre M73 i5-4570T 512GB/8GB*
+- Home Assistant - *ThinkCentre M710q i7-7700T 256GB/16GB*
+- GUI Server Stuff - *MacBook Air M1 16/1TB with broken screen*
+- TrueNAS - *ThinkCentre M710q i7-7700T 250GB/32GB in custom 3D printed 6 bay NAS enclosure using ASM1166*
+- Apple Backups - *Synology DS220j 512MB/3TB*
+- Other Backups - *Ugreen DXP4800 8GB/4TB*
+- XT8 WiFi AP
+
+## Splits to unmanaged edge switches 🪾
+
+### 8x2.5GbE PoE Switch #1
+- Cameras
+- Desktops
+- Wall HA Kiosk #1
+
+### 8x2.5GbE PoE Switch #2
+- Cameras
+- XT8 WiFi AP
+- Desktop
+- Wall HA Kiosk #2
+
+### Workshop Asus XT8 AP 2.5GbE in, 1GbE out
+- 8x1GbE PoE Switch
+- Cameras
+- Wall HA Kiosk #3
+
+### 5x2.5GbE non-PoE Switch
+- Zigbee coordinator
+- TV, Roku, DVD player
+- XT8 WiFi AP
+
+</details>
